@@ -1,4 +1,4 @@
-#SafeMap Barranquilla — Instrucciones de ejecución
+# SafeMap Barranquilla — Instrucciones de ejecución
 
 ## Requisitos
 - Python 3.9+
