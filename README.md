@@ -24,15 +24,15 @@ python app.py
 Abrir en el navegador: http://localhost:5050
 
 ## Estructura
-safemap_barranquilla/
-├── app.py                               ← Backend Flask (modelo + API)
-├── encoders.pkl                         ← LabelEncoders por variable
-├── feature_cols.pkl                     ← Lista de features del modelo
-├── frontend_data.json                   ← Datos agregados para el mapa
-├── hurto_personas_barranquilla_2025_2026.xlsx  ← Dataset fuente
-├── index.html                           ← Frontend (mapa + formulario)
-├── model.pkl                            ← Modelo Random Forest entrenado
-└── requirements.txt
+safemap_barranquilla/ <br>
+├── app.py                               ← Backend Flask (modelo + API) <br>
+├── encoders.pkl                         ← LabelEncoders por variable <br>
+├── feature_cols.pkl                     ← Lista de features del modelo <br>
+├── frontend_data.json                   ← Datos agregados para el mapa <br>
+├── hurto_personas_barranquilla_2025_2026.xlsx  ← Dataset fuente <br>
+├── index.html                           ← Frontend (mapa + formulario) <br>
+├── model.pkl                            ← Modelo Random Forest entrenado <br>
+└── requirements.txt <br>
 
 ## Endpoints API
 - GET  /            → Sirve el frontend.
