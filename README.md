@@ -35,7 +35,7 @@ safemap_barranquilla/
 └── requirements.txt
 
 ## Endpoints API
-- GET  /            → Sirve el frontend
-- GET  /api/data    → Devuelve categorías y datos del mapa
-- POST /api/predict → Recibe parámetros, devuelve predicción RF
-- GET  /api/sitios  → Lista de clases de sitio disponibles
+- GET  /            → Sirve el frontend.
+- GET  /api/data    → Devuelve categorías y datos del mapa.
+- POST /api/predict → Recibe parámetros, devuelve predicción RF.
+- GET  /api/sitios  → Lista de clases de sitio disponibles.
